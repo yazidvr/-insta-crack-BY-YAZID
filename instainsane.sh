@@ -36,7 +36,7 @@ printf "\e[1;95m | || '_ \ / __|| __| / _\` |   \e[0m\e[1;91m/ /\/| '_ \ / __| /
 printf "\e[1;95m | || | | |\__ \| |_ | (_| |\e[0m\e[1;91m/\/ /_  | | | |\__ \| (_| || | | ||  __/ \e[0m\n"
 printf "\e[1;77m |_||_| |_||___/ \__| \__,_|\e[0m\e[1;77m\____/  |_| |_||___/ \__,_||_| |_| \___| \e[0m\n"
 printf "\n"
-printf "\e[1;77m\e[41m  Instagram Brute Forcer v1.0, Author: @thelinuxchoice (Github/IG)  \e[0m\n" #Don't change, noob
+printf "\e[1;77m\e[41m  Instagram Brute Forcer v1.0, Author: @yazid__vr (Github/IG)  \e[0m\n" #Don't change, noob
 printf "\n"
 }
 
